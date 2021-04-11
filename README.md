@@ -9,4 +9,4 @@ LinuxGame is a 2D quiz mini game crated by team of 3 people during the first yea
 
 4)Camera follow
 
-My code is available by path "LinuxGame -> Assets -> Scrits"
+My code is available by path "Project -> Assets -> Scrits"
